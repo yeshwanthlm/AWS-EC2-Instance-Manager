@@ -88,7 +88,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-Developed by Yeshwanth L M at [A Monk in Cloud](https://amonkincloud.com)
+Developed by Yeshwanth L M at [A Monk in Cloud](https://yeshwanthlm.in)
 
 ---
 
